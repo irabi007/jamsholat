@@ -1,7 +1,7 @@
 // Jenis Audio
 var audioZuhur = new Audio("assets/sholat/murotal/arrahman10m.mp3");
-var audioAshar = new Audio("assets/sholat/murotal/murotal-1.mp3");
-var audioSubuh = new Audio("assets/sholat/murotal/alwaqiah.mp3");
+var audioAshar = new Audio("assets/sholat/murotal/arrahman10m.mp3.mp3");
+var audioSubuh = new Audio("assets/sholat/murotal/arrahman10m.mp3.mp3");
 var audioTahrim = new Audio("assets/sholat/murotal/tahrim.mp3");
 var audioMaghrib = new Audio("assets/sholat/murotal/arrahman10m.mp3");
 var audioIsya = new Audio("assets/sholat/murotal/almulk.mp3");
